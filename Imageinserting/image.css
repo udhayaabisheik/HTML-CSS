@@ -1,0 +1,12 @@
+* {
+    background-image: url("coding.jpg");
+}
+
+div {
+    color: white;
+    padding: 20px;
+    border: 2px solid darkgreen;
+    text-align: center;
+    margin: 400px;
+    font-size: xx-large;
+}
