@@ -13,3 +13,7 @@ p b:last-child {
 .div2:hover {
     background-color: gray;
 }
+
+body {
+    background-color: blueviolet;
+}
