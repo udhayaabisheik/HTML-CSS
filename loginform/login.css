@@ -1,0 +1,38 @@
+body {
+    background-color: #e60000;
+    font-family: sans-serif;
+}
+
+.form {
+    width: 320px;
+    height: 320px;
+    color: #e60000;
+    background: lightgrey;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+.form input {
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: 0.5px solid grey;
+}
+
+.form input[type="submit"] {
+    background-color: #e60000;
+    border-style: none;
+    height: 40px;
+    cursor: pointer;
+    color: white;
+}
