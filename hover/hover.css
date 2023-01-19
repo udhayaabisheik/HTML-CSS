@@ -1,0 +1,15 @@
+p:first-child b{
+    color: brown;
+}
+
+p b:last-child {
+    color: orange;
+}
+
+.div1:hover {
+    background-color: aqua;
+}
+
+.div2:hover {
+    background-color: gray;
+}
