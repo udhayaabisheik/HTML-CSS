@@ -4,9 +4,11 @@
 
 div {
     color: white;
-    padding: 20px;
+    padding: 5%;
     border: 2px solid darkgreen;
     text-align: center;
-    margin: 400px;
+    margin-top: 240px;
+    margin-left: 540px;
     font-size: xx-large;
+    width: 10%;
 }
