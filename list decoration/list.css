@@ -1,11 +1,21 @@
-ul li {
+.fruits {
     color: blue;
     list-style-image: url(fruits.png);
     list-style-position: outside;
 }
 
-ol li {
+.phones {
     color: orange;
     list-style-image: url(phone.png);
     list-style-position: inside;
+}
+
+.cars {
+    list-style-type: disc;
+    color: yellowgreen;
+}
+
+.bikes {
+    list-style-type: square;
+    color: darkmagenta;
 }
