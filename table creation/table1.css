@@ -1,0 +1,25 @@
+* {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h1 {
+    margin-left: 320px;
+}
+
+table {
+    background-color: antiquewhite;
+    width: 50%;
+    font-size: small;
+}
+
+table,th,td{
+    border: none;
+    border-collapse: collapse;
+    padding-left: 10px;
+    height: 30px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;    
+}
