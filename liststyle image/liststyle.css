@@ -1,0 +1,15 @@
+ul {
+    list-style-image: url(square.png);
+}
+
+li {
+    list-style-image: url(new-moon.png);
+}
+
+.a {
+    list-style-image: inherit;
+}
+
+.b {
+    list-style-image: none;
+}
