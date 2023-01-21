@@ -1,0 +1,10 @@
+body {
+    /* background: url(img.jpg) repeat-x; */
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    /* background-position: right; */
+    /* background-position: center; */
+    width: 100vh;
+    height: 100%;
+}
