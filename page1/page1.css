@@ -1,0 +1,46 @@
+*{
+    color: white;
+}
+
+body {
+    background-image: url(leaf.jpg);
+    background-size: cover;
+}
+
+div {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h6 {
+    margin: 12% 0% 0% 14%;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 14%;
+    margin-top: 0;
+    padding: 0;
+    font-size: 250%;
+}
+
+.b1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 3px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    padding: 12px;
+    margin-left: 14%;
+}
+.b2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 3px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    padding: 12px;
+    margin-left: 4px;
+}
