@@ -19,7 +19,7 @@ h1 {
 }
 
 img {
-    float: right;
+    /* float: right; */
     height: 50vh;
     width: 100%;
     margin-bottom: 60px;
