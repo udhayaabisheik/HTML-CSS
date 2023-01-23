@@ -13,6 +13,10 @@ ul.c {
 ul.s{
     list-style: square inside url(square.png);
 }
+
+ul.n{
+    list-style: none;
+}
   
 ol.d {
     list-style-type: lower-alpha;
