@@ -9,6 +9,10 @@ ul.b {
 ul.c {
     list-style-type: disc;
 }
+
+ul.s{
+    list-style: square inside url(square.png);
+}
   
 ol.d {
     list-style-type: lower-alpha;
