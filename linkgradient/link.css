@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: conic-gradient(orange,fuchsia,	aquamarine);
+    height: 100vh;
+    width: 100%;
+    color: white;
+}
+
+h1 {
+    font-family: Unbounded;
+    margin-left: 10px;
+}
+
+div {
+    float: right;
+}
+
+ul {
+    font-family: Montserrat;
+    list-style-type: none;
+    text-align: right;
+    margin: 20px 60px 0 0;
+    line-height: 50px;
+}
+
+h2 {
+    font-family: Unbounded;
+    text-align: right;
+    margin: 350px 60px 0 0;
+    color: silver;
+}
+
+p {
+    font-family: Montserrat;
+    float: left;
+    margin: 8% 0 0 8%;
+    width: 34%;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+p::first-letter {
+    color: brown;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: maroon;
+}
+
+a:active {
+    color: red;
+}
