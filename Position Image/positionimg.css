@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.one {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+}
+
+.two {
+    position: relative;
+    width: 400px;
+    height: 200px;
+}
+
+.three {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
+
+.four {
+    position: sticky;
+    top: 0;
+}
+
+div {
+    height: 200vh;
+}
