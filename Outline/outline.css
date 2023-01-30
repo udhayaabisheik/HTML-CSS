@@ -1,0 +1,118 @@
+.rid {
+    outline: ridge;
+}
+
+.double {
+    outline: double;
+}
+
+.io {
+    border-style: inset;
+    border-style: outset;
+}
+
+.gr {
+    outline: groove;
+}
+
+.ol>* {
+    outline: solid;
+}
+
+.dot {
+    outline: dotted;
+}
+
+.cursor {
+    cursor: pointer;
+    outline: dashed;
+}
+
+.zi {
+    cursor: zoom-in;
+}
+
+.zo {
+    cursor: zoom-out;
+}
+
+.cr {
+    cursor: col-resize;
+}
+
+.rr{
+    cursor: row-resize;
+}
+
+.nr {
+    cursor: n-resize;
+}
+
+.er {
+    cursor: e-resize;
+}
+
+.ner {
+    cursor: ne-resize;
+}
+
+.nwr {
+    cursor: nw-resize;
+}
+
+.c {
+    cursor: crosshair;
+}
+
+.p {
+    cursor: progress;
+}
+
+.n {
+    cursor: not-allowed;
+}
+
+.g {
+    cursor: grab;
+}
+
+.gb {
+    cursor: grabbing;
+}
+
+.over>* {
+    width: 25%;
+    height: 25vh;
+    background-image: url(black.jpg);
+}
+
+.ofs {
+    overflow: scroll;
+}
+
+.ofv {
+    overflow: visible;
+}
+
+.ofh {
+    overflow: hidden;
+}
+
+.aof {
+    overflow: auto;
+}
+
+.ofxy {
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.hxys {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.hyxs {
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
