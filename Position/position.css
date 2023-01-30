@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back {
+    background-color: #fcba03;
+    height: 200vh;
+    width: 100%;
+}
+
+.one {
+    background-color: blueviolet;
+    width: 20%;
+    height: 20vh;
+    position: static;
+}
+
+.two {
+    background-color: brown;
+    width: 20%;
+    height: 20vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.three {
+    background-color: cornflowerblue;
+    width: 20%;
+    height: 20vh;
+    position: fixed;
+}
+
+.four {
+    background-color: crimson;
+    width: 20%;
+    height: 20vh;
+    position:relative;
+    top: 10px;
+    left: 10px;
+}
+
+.five {
+    background-color: darkolivegreen;
+    width: 20%;
+    height: 20vh;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
