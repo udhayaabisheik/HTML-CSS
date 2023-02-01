@@ -1,0 +1,27 @@
+.left {
+    width: 200px;
+    height: 300px;
+    box-shadow: 5px 5px 10px 3px rgba(0,0,0,0.7);
+    z-index: 0;
+    transform: rotate(-20deg);
+    background-image: url('https://images.pexels.com/photos/2622188/pexels-photo-2622188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+}
+
+.right {
+    width: 200px;
+    height: 300px;
+    box-shadow: 5px 5px 10px 3px rgba(0,0,0,0.7);
+    z-index: -1;
+    transform: rotate(20deg);
+    background-image: url('https://images.pexels.com/photos/3392937/pexels-photo-3392937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+}
+
+body {
+    display: flex;
+    position: absolute;
+    top: 180px;
+    left: 540px;
+    background-color: cadetblue;
+}
