@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto';
+}
+
+.bc {
+    background-color: #0967d219;
+}
+
+.dry {
+    background-color: #3ebd93;
+    color: white;
+}
+
+.high {
+    background-color: #e668a7;
+    color: white;
+}
+
+.headache {
+    background-color: #a368fc;
+    color: white;
+}
+
+.lbc {
+    background-color: #e12d3919;
+}
+
+.sep {
+    color: #707070;
+}
+
+h5,h6 {
+    color: #323f4b;
+}

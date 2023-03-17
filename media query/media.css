@@ -1,0 +1,11 @@
+div {
+    background-color: red;
+    color: black;
+}
+
+@media only screen and (min-width:480px) {
+    div {
+        background-color: cadetblue;
+        color: white;
+    }
+}

@@ -1,0 +1,24 @@
+h4 {
+    color: #cced00;
+}
+
+.card-link {
+    text-decoration: none;
+    color: #cced00;
+}
+
+.container-fluid {
+    background-color: #3e4c59;
+}
+
+.card {
+    background-color: #323f4b;
+}
+
+p,h6 {
+    color: #9aa5b1 !important;
+}
+
+h5,h1 {
+    color: white !important;
+}

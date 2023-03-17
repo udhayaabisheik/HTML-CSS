@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.card {
+    background-color: #ffffff;
+}
+
+.bc {
+    background-color: #5752ab;
+    color: #ffffff;
+}
+
+.bo {
+    border-color: #d7dfe9;
+    color: #171f46;
+}
+
+.card-title {
+    color: #5752ab;
+    font-family: 'Bree Serif';
+}
+
+.card-text {
+    color: #323f4b;
+    font-family: 'Roboto';
+}

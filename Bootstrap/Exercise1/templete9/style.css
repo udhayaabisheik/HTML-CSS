@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.out{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.card-title {
+    font-family: 'Bree Serif';
+}
+
+.card-txet {
+    font-family: 'Roboto';
+}
+
+.bc {
+    background-color: #000000e6;
+    color: white;
+}

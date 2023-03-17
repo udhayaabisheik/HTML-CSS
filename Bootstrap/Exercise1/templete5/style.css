@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.card {
+    background-color: #ffffff;
+    font-family: 'Roboto';
+}
+
+.btn-primary {
+    background-color: #323f4b;
+    color: #ffffff;
+}
+
+.card-title {
+    color: #323f4b;
+}
+
+.card-text {
+    color: #7b8794;
+}

@@ -1,0 +1,14 @@
+body {    
+    background: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png') no-repeat center fixed;     
+    background-size: cover;
+    color: white;
+    font-size: 160px;
+}
+
+i {
+    border-bottom: solid white 5px;
+}
+
+.small {
+    font-size: 40px;
+}

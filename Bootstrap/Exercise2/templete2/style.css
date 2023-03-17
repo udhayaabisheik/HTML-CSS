@@ -1,0 +1,28 @@
+body {
+    background-color: #191a1d;
+    color: white;
+}
+
+.navbar-brand {
+    border: solid black 2px;
+}
+
+.navbar {
+    background-color: #9aa5b1 !important;
+}
+
+.content {
+    color: white;
+}
+
+.up {
+    font-size: 40px;
+}
+
+.down {
+    font-size: 25px;
+}
+
+span {
+    color: #4b6cc1;
+}

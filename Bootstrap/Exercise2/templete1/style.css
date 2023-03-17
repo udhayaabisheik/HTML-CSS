@@ -1,0 +1,31 @@
+footer {
+    background-color: #19232d;
+}
+
+.ico {
+    background-color: #202b36;
+    color: #959ead;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.ad {
+    color: #959ead;
+}
+
+.con {
+    color: #959ead;
+}
+
+h5 {
+    color: #959ead;
+}
+
+.lt {
+    color: #959ead;
+}
+
+.copy {
+    border-top: solid #959ead 2px;
+    color: #959ead;
+}
